@@ -8,10 +8,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=yvrjprshr&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 <div align="center">     
+  
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=yvrjprshr&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 </div>
 
 <div align="center">    
+  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yvrjprshr)  
 </div>
 
