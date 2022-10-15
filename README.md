@@ -26,6 +26,8 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yvrjprshr&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![@yvrjprshr's Holopin board](https://holopin.me/yvrjprshr)](https://holopin.io/@yvrjprshr)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
